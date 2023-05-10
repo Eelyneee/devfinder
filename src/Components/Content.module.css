@@ -1,0 +1,12 @@
+.loading {
+    margin-top: 5%;
+}
+
+.default {
+    margin-top: 5%;
+    color: #818181;
+}
+
+.error {
+    color: #ff0000;
+}

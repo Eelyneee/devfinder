@@ -1,0 +1,24 @@
+.box {
+    width: max-content;
+    margin-right: 20px;
+}
+
+.title {
+    color: #818181;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+
+.number {
+    font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+    .title {
+        font-size: 12px;
+    }
+
+    .numer {
+        font-size: 14px;
+    }
+}

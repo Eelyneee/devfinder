@@ -1,0 +1,16 @@
+.box {
+    display: flex;
+    align-items: center;
+}
+
+.invalid {
+    color: rgb(181, 181, 181);
+}
+
+p {
+    margin-left: 5px;
+}
+
+a {
+    cursor: pointer;
+}
